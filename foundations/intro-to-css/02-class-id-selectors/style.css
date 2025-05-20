@@ -1,6 +1,6 @@
 /*style.css*/
 .oddNo{
-    background-color: #fa9bde; /* #ff000080;*/
+    background-color: #fa9bde;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
@@ -9,12 +9,12 @@
 }
 
 #evenBlue{
-    color: #0f447a;
+    color: #1274d5;
     font-size: 36px;
 }
 
 #evenGreen{
-    background-color: #7eb38b;
+    background-color: #96caa3;
     font-size: 24px;
     font-weight: bold;
 }
