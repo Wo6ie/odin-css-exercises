@@ -1,0 +1,20 @@
+/*style.css*/
+.oddNo{
+    background-color: #fa9bde; /* #ff000080;*/
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.largeFont{
+    font-size: 24px;
+}
+
+#evenBlue{
+    color: #0f447a;
+    font-size: 36px;
+}
+
+#evenGreen{
+    background-color: #7eb38b;
+    font-size: 24px;
+    font-weight: bold;
+}
