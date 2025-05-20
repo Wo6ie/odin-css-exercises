@@ -1,0 +1,12 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+}
+.headline{
+    background-color: red;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    /*letter-spacing: 2px;*/
+    /*word-spacing: 5px;*/
+    color: white;
+}
