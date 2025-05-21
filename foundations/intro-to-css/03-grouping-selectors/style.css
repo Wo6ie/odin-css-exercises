@@ -1,8 +1,8 @@
 /*style.css*/
-.buttonBlk
+.buttonBlk,
 .buttonYlw{
     font-family: Helvetica, 'Times New Roman', Times, sans-serif;
-    font-size: large;
+    font-size: 28px;
 }
 
 .buttonBlk{
